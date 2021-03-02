@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lol</string>
+    <string name="button">Button</string>
+    <string name="button2">Button</string>
+    <string name="set">Set</string>
+    <string name="exit">Exit</string>
+</resources>
